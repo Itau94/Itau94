@@ -76,48 +76,14 @@ Trabalho com **HTML, CSS, JavaScript e Node.js**, aplicando princípios de **cle
 
 ---
 
-## 🛡️ Aviso de Sigilo / NDA
-
-Alguns projetos apresentados neste portfólio foram adaptados ou resumidos para preservar informações confidenciais de clientes e parceiros. Todo o código exibido aqui é de autoria própria ou exemplos genéricos criados exclusivamente para fins demonstrativos. Nenhum dado sensível ou proprietário é divulgado.
-
----
-
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-italo--domingos-blue?logo=linkedin)](https://linkedin.com/in/italo-domingos-a57536153)
 
 ---
 
-## 🌱 Próximos passos
-
-- 💻 Publicar 2–3 mini-projetos (ex.: landing com formulário, API simples em Node, to-do com localStorage).
-- 🧪 Adicionar testes básicos quando fizer sentido.
-- 📚 Escrever um breve post sobre um aprendizado recente.
-
 <p align="center">
   <sub>© 2025 Ítalo Domingos – Desenvolvedor Jr | Engenharia de Software</sub>
 </p>
 
----
-
-## 🛡️ Aviso de Sigilo / NDA
-
-Alguns projetos apresentados neste portfólio foram adaptados ou resumidos para preservar informações confidenciais de clientes e parceiros. Todo o código exibido aqui é de autoria própria ou exemplos genéricos criados exclusivamente para fins demonstrativos. Nenhum dado sensível ou proprietário é divulgado.
-
----
-
-## 📫 Contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-italo--domingos-blue?logo=linkedin)](https://linkedin.com/in/italo-domingos-a57536153)
-
----
-
-## 🌱 Próximos passos
-
-- 💻 Publicar 2–3 mini-projetos (ex.: landing com formulário, API simples em Node, to-do com localStorage).
-- 🧪 Adicionar testes básicos quando fizer sentido.
-- 📚 Escrever um breve post sobre um aprendizado recente.
-
-<p align="center">
-  <sub>© 2025 Ítalo Domingos – Desenvolvedor Jr | Engenharia de Software</sub>
-</p>
+--
