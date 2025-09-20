@@ -44,7 +44,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-**# 👋 Olá, eu sou Ítalo Domingos
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-italo--domingos-blue?logo=linkedin)](https://linkedin.com/in/italo-domingos-a57536153)
 
